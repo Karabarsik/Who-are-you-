@@ -83,3 +83,38 @@ body {
 .incorrect {
     background: #ff0000;
 }
+
+.sw{
+    background: linear-gradient(to bottom left, #ffffff, #1605d4);
+    width: 90%;
+    max-width: 350px;
+    margin: 100px 1200px;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+
+}
+
+.swhp{
+    background: linear-gradient(to bottom left, #ffffff, #1605d4);
+    width: 90%;
+    max-width: 350px;
+    margin: 100px ;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+
+}
+
+
+.tlotr{
+    background: linear-gradient(to bottom left, #ffffff, #1605d4);
+    width: 90%;
+    max-width: 350px;
+    margin: 100px 1200px;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+
+}
+
